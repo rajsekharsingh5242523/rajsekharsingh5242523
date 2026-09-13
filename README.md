@@ -112,15 +112,8 @@ club_role:     AI/ML club — reviews & event ops
 
 ---
 
-### 🎯 Roadmap → 東京 (Tokyo)
 
-```
-[x] Month 1  — Sales EDA project, DSA phase 1
-[ ] Winter   — Google PDE certification retake
-[ ] JLPT     — steady progression
-[ ] Target   — Japan-based Data/Software Engineering internship
-[ ] Endgame  — full-time role in Japan's tech ecosystem
-```
+
 
 ---
 
