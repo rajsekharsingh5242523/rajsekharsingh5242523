@@ -119,8 +119,6 @@ club_role:     AI/ML club — reviews & event ops
 
 ---
 
-### 🎯 Roadmap → 東京 (Tokyo)
-
 
 
 ---
