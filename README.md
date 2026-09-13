@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile.jpg" width="160" style="border-radius:50%;border:2px solid #00FF9C;" alt="Rajsekhar Singh" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=whoami+%3D%3E+rajsekhar+singh;role+%3D+%22data+engineer+in+training%22;target+%3D+%5B%22Rakuten%22%2C+%22PayPay%22%2C+%22Mercari%22%2C+%22LINE%22%5D;status+%3D+%22building+in+public%22" alt="Typing SVG" />
 </h1>
@@ -139,7 +143,6 @@ jobs:
 ```
 
 ---
-
 
 
 ---
