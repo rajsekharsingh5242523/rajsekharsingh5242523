@@ -104,17 +104,23 @@ club_role:     AI/ML club — reviews & event ops
 
 ---
 
-## 🐍 Contribution graph
+### 🐍 Contribution graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rajsekharsingh5242523/rajsekharsingh5242523/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rajsekharsingh5242523/rajsekharsingh5242523/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/rajsekharsingh5242523/rajsekharsingh5242523/blob/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajsekharsingh5242523/rajsekharsingh5242523/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
+### 🎯 Roadmap → 東京 (Tokyo)
 
+```
+[x] Month 1  — Sales EDA project, DSA phase 1
+[ ] Winter   — Google PDE certification retake
+[ ] JLPT     — steady progression
+[ ] Target   — Japan-based Data/Software Engineering internship
+[ ] Endgame  — full-time role in Japan's tech ecosystem
+```
 
 ---
 
