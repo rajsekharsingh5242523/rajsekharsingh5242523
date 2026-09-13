@@ -114,7 +114,6 @@ club_role:     AI/ML club — reviews & event ops
 
 
 
-
 ---
 
 <p align="center">
