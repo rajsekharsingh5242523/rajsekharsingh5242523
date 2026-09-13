@@ -16,7 +16,7 @@
 ██████╗  █████╗      ██╗███████╗███████╗██╗  ██╗ █████╗ ██████╗
 ██╔══██╗██╔══██╗     ██║██╔════╝██╔════╝██║ ██╔╝██╔══██╗██╔══██╗
 ██████╔╝███████║     ██║███████╗█████╗  █████╔╝ ███████║██████╔╝
-██╔══██╗██╔══██║██   ██║╚════██║██╔══╝  ██╔═██╗ ██╔══██║██╔══██╗
+██╔══██╗██╔══██║██   ██║╚════██║██╔══╝  ██╔═██╗ ██╔══██║██╔══██╗ 
 ██║  ██║██║  ██║╚█████╔╝███████║███████╗██║  ██╗██║  ██║██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 
@@ -134,17 +134,7 @@ jobs:
 
 ---
 
-### 🎯 Roadmap → 東京 (Tokyo)
 
-```
-[x] Month 1  — Sales EDA project, DSA phase 1
-[ ] Winter   — Google PDE certification retake
-[ ] JLPT     — steady progression
-[ ] Target   — Japan-based Data/Software Engineering internship
-[ ] Endgame  — full-time role in Japan's tech ecosystem
-```
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/build-in%20progress-00FF9C?style=for-the-badge&labelColor=0d1117" />
