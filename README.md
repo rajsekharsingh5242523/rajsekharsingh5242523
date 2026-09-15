@@ -92,11 +92,6 @@ club_role:     AI/ML club — reviews & event ops
 
 ---
 
-
-
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/build-in%20progress-00FF9C?style=for-the-badge&labelColor=0d1117" />
 </p>
