@@ -81,22 +81,6 @@ club_role:     AI/ML club — reviews & event ops
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 
----
-
-### 📊 Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajsekharsingh5242523&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsekharsingh5242523&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsekharsingh5242523&theme=dark&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajsekharsingh5242523&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF9C&line=00FF9C&point=ffffff" />
-</p>
 
 ---
 
