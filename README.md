@@ -26,7 +26,7 @@
 ███████║██║██║ ╚████║╚██████╔╝██║  ██║
 ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
 
-  OS: BTech Data Science, 3rd yr
+  OS: BTech Data Science, 2rd yr
   Host: University AI/ML Club — Core Member
   Kernel: Python 3.x / SQL / GCP
   Languages.Programming: Python, SQL, C++
