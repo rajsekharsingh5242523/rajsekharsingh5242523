@@ -1,4 +1,4 @@
-![Human and AI](./download__2_-removebg-preview.png)
+![Human and AI](./download(3).jpg)
 
 ---
 
