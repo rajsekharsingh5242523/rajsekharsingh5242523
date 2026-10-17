@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./download%20(3).jpg" alt="Human and AI" width="100%" />
+  <img src="./download%20(3).jpg" alt="Human and AI" width="70%" />
 </p>
 
 ---
