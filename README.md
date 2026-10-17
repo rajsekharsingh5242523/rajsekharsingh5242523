@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./download%20(3).jpg" alt="Human and AI" width="450" />
+  <img src="./download%20(3).jpg" alt="Human and AI" width="100%" />
 </p>
-
 
 ---
 
