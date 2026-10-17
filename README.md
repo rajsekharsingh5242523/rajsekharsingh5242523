@@ -1,13 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=whoami+%3D%3E+rajsekhar+singh;role+%3D+%22data+engineer+in+training%22;target+%3D+%5B%22Rakuten%22%2C+%22PayPay%22%2C+%22Mercari%22%2C+%22LINE%22%5D;status+%3D+%22building+in+public%22" alt="Typing SVG" />
-</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF9C&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Shell-bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF9C&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-000000?style=for-the-badge&logo=databricks&logoColor=00FF9C&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Goal-Japan%20🇯🇵-000000?style=for-the-badge&logo=japan-airlines&logoColor=00FF9C&labelColor=0d1117" />
-</p>
 
 ---
 
